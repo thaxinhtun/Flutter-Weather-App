@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 
-// constant style widgets.
-
 Widget kCustomText(String text, double size, FontWeight weight) {
   return Text(
     text,

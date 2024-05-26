@@ -8,7 +8,7 @@ import 'package:weather_app/custom_widget/custom_loading_screen_widget.dart';
 import 'package:weather_app/custom_widget/custom_weather_detailed.dart';
 import 'package:weather_app/features/home/bloc/weather_bloc.dart';
 
-import '../../../util/style.dart';
+import '../../../utils/styles.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
